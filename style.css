@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;  
+  }
+  a{
+      color:white;
+  }
+  a:hover{
+      text-decoration: underline;
+      color:blue;
+  }
+  #wrap{
+      margin: 0 auto;
+      text-align: center;
+  }
+  #nhead{
+        background: url('img/back.jpg') purple;
+  
+        padding: 20px;
+        height:200px;
+  }
+  #website_name{
+      color: rgb(24, 23, 23);
+      padding-left: 1100px;
+   
+  }
+  #img_logo{
+  padding-left: 1350px;
+  }
+
+
+  #nparagraph{
+
+      background: url('img/wh.jpg') fixed pink; 
+      height: 600px;
+      padding: 24px;
+  }
+  .text_para{
+padding-left: 1200px;
+font-size: 25px;
+  }
+  .text_para2{
+    padding-left: 200px;
+    font-size: 20px;
+      }
+  #footer{
+      background: url('img/bl.jpg');
+      padding: 50px;
+  }
+  .lin{
+    background-color: blanchedalmond;  
+    color: blueviolet;
+  }
+#emsub{
+    color: rgb(112, 110, 108);
+    background-color: black;
+}
+
+
+  .foo_myaccount{
+      color:white;
+      font-size: 18px;
+      font-family: vedana;
+      padding-left: 1100px;
+  }
+  .foo_email{
+      color:white;
+      font-size: 20px;
+      font-family: vedana;
+      padding-right: 1100px;
+      }
+
+      .foo_aboutus{
+          color:white;
+          font-size: 20px;
+          font-family: vedana;
+          padding-left: 1100px;
+          }
+  
+      .foo_policy{
+          color:white;
+          font-size: 20px;
+          font-family: vedana;
+          padding-left: 1100px;
+          }
+  
+      .redColor{
+  color:red;
+      }
+  
